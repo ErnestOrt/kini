@@ -26,9 +26,9 @@
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
-        borderColor: '#007bff',
+        borderColor: '#81F79F',
         borderWidth: 4,
-        pointBackgroundColor: '#007bff'
+        pointBackgroundColor: '#81F79F'
       },
       {
               data: [
@@ -36,9 +36,9 @@
               ],
               lineTension: 0,
               backgroundColor: 'transparent',
-              borderColor: '#007bff',
+              borderColor: '#F78181',
               borderWidth: 4,
-              pointBackgroundColor: '#007bff'
+              pointBackgroundColor: '#F78181'
             },
             {
                           data: [
