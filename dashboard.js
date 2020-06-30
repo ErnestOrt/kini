@@ -22,7 +22,7 @@
       ],
       datasets: [{
         data: [
-          1, 0.189, 0.967
+          1, 0.189, 0.967, 2.5
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
